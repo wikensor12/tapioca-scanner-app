@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tapioca</string>
+    <string name="back_btn">Volver</string>
+    <string name="title_tapioca">Aprende a usar Tapioca!</string>
+    <string name="desc_tapioca">La mejor app para saber que comes!</string>
+    <string name="swipe">Deslice con el dedo hacia la izquierda para continuar</string>
+    <string name="barcode">Escanea el codigo de barras!</string>
+    <string name="learn">Y aprende de tu producto!</string>
+    <string name="ready">¿Listo para empezar?</string>
+    <string name="btn_ready">¡Empecemos!</string>
+    <string name="ingredients">Ingredientes del Producto</string>
+
+</resources>

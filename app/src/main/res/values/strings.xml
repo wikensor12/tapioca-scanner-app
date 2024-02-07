@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Tapioca</string>
+    <string name="title_home" translatable="false">Home</string>
+    <string name="title_dashboard" translatable="false">Dashboard</string>
+    <string name="title_notifications" translatable="false">Notifications</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="back_btn">Back</string>
+    <string name="title_tapioca">Learn to use Tapioca!</string>
+    <string name="desc_tapioca">The best app to know what you eat!</string>
+    <string name="swipe">Swipe left to continue</string>
+    <string name="barcode">Scan the barcode!</string>
+    <string name="learn">And learn about your product!</string>
+    <string name="ready">Ready to start?</string>
+    <string name="btn_ready">Let\'s start!</string>
+    <string name="ingredients">Product ingredients</string>
+
+
+</resources>

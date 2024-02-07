@@ -1,0 +1,41 @@
+<!-- fragment_product_details.xml -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:background="?android:attr/windowBackground">
+
+    <TextView
+        android:id="@+id/productNameTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Nombre del Producto"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="8dp"
+        android:textColor="?android:attr/textColorPrimary" />
+
+    <TextView
+        android:id="@+id/ingredientsLabel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/ingredients"
+        android:layout_below="@id/productNameTextView"
+        android:layout_marginTop="16dp"
+        android:textSize="16sp"
+        android:layout_marginBottom="8dp"
+        android:textColor="?android:attr/textColorPrimary" />
+
+    <TextView
+        android:id="@+id/ingredientsTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/ingredientsLabel"
+        android:layout_marginTop="8dp"
+        android:textSize="14sp"
+        android:layout_marginBottom="8dp"
+        android:textColor="?android:attr/textColorPrimary" />
+
+    <!-- Remove unnecessary TextViews for productDescription, brands, categories, and nutritionalInfo -->
+
+</RelativeLayout>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tapioca</string>
+    <string name="back_btn">Back</string>
+    <string name="title_tapioca">Learn to use Tapioca!</string>
+    <string name="desc_tapioca">The best app to know what you eat!</string>
+    <string name="swipe">Swipe left to continue</string>
+    <string name="barcode">Scan the barcode!</string>
+    <string name="learn">And learn about your product!</string>
+    <string name="ready">Ready to start?</string>
+    <string name="btn_ready">Let\'s start!</string>
+    <string name="ingredients">Product ingredients</string>
+
+</resources>
