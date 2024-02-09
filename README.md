@@ -26,7 +26,7 @@
 <br />
 <div align="center">
   <a>
-    <img src="images/Tapioca.png" alt="Logo" width="80" height="80">
+    <img src="/app/src/main/res/drawable/logotapioca.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
