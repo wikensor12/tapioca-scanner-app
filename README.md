@@ -26,9 +26,9 @@
     <br />
     <a href="https://github.com/wikensor12/tapioca-scanner-app">View Demo</a>
     ·
-    <a href="https://github.com/t/wikensor12/tapioca-scanner-app/issues">Report Bug</a>
+    <a href="https://github.com/wikensor12/tapioca-scanner-app/issues">Report Bug</a>
     ·
-    <a href="https://github.com/t/wikensor12/tapioca-scanner-app/issues">Request Feature</a>
+    <a href="https://github.com/wikensor12/tapioca-scanner-app/issues">Request Feature</a>
   </p>
 </div>
 
