@@ -208,7 +208,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
-[java]: https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=nextdotjs&logoColor=orange
+[java]: https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=orange
 [java-url]: https://www.java.com/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
