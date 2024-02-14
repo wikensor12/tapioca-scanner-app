@@ -82,7 +82,7 @@ Parts of Tapioca:
 ### Built With
 
 
-* [![java][java-url]
+* [![Java][java]][java-url]
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
