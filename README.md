@@ -84,7 +84,7 @@ Parts of Tapioca:
 
 * [![Java Icon](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)][java-url] [![Java][java]][java-url]
 * [![Android Studio Icon](https://img.icons8.com/color/48/000000/android-studio--v3.png)][android-url] [![android-studio]][android-url]
-* [![XML][xml]][xml-url]
+* [![XML Icon](https://img.icons8.com/color/48/000000/xml.png)][xml-url] [![XML][xml]][xml-url]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
