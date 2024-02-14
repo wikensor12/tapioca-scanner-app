@@ -120,6 +120,11 @@ Welcome to Tapioca! Follow these steps to get started using our app:
 * Open the Tapioca app after installation.
 * Grant any necessary permissions for the app to function properly, such as access to the camera for scanning barcodes.
 
+Once you have completed the initial setup, you can start using Tapioca in the following ways:
+
+* Go to the scanning screen to scan the barcode of a product.
+* Explore the product database to look up information about a specific product.
+* Check out the product information screen to get details about ingredients, nutritional value, and more.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
