@@ -81,11 +81,10 @@ Parts of Tapioca:
 
 ### Built With
 
-### Built With
 
 * [![Java Icon](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)][java-url] [![Java][java]][java-url]
 * [![Android Studio Icon](https://img.icons8.com/color/48/000000/android-studio--v3.png)][android-url] [![android-studio]][android-url]
-
+* [![XML][xml]][xml-url]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -208,3 +207,5 @@ Use this space to list resources you find helpful and would like to give credit 
 [java-url]: https://www.java.com/
 [android-studio]:https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white
 [android-url]: https://developer.android.com/studio
+[xml]: https://img.shields.io/badge/XML-000000?style=for-the-badge&logo=xml&logoColor=white
+[xml-url]: https://www.w3.org/XML/
