@@ -83,7 +83,7 @@ Parts of Tapioca:
 
 
 * [![Java][java]][java-url]
-* [![React][React.js]][React-url]
+* [![Android][android-studio]][React-url]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
