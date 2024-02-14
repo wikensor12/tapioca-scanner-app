@@ -82,9 +82,9 @@ Parts of Tapioca:
 ### Built With
 
 
-* [![Java Icon](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)][java-url] &nbsp;&nbsp; [![Java][java]][java-url]
-* [![Android Studio Icon](https://img.icons8.com/color/48/000000/android-studio--v3.png)][android-url] &nbsp;&nbsp; [![Android Studio][android-studio]][android-url]
-* [![XML Icon](https://img.icons8.com/color/48/000000/xml.png)][xml-url] &nbsp;&nbsp; [![XML][xml]][xml-url]
+ [![Java Icon](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)][java-url] &nbsp;&nbsp; [![Java][java]][java-url]
+ [![Android Studio Icon](https://img.icons8.com/color/48/000000/android-studio--v3.png)][android-url] &nbsp;&nbsp; [![Android Studio][android-studio]][android-url]
+ [![XML Icon](https://img.icons8.com/color/48/000000/xml.png)][xml-url] &nbsp;&nbsp; [![XML][xml]][xml-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
