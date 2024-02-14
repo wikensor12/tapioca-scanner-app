@@ -207,5 +207,5 @@ Use this space to list resources you find helpful and would like to give credit 
 [java-url]: https://www.java.com/
 [android-studio]:https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white
 [android-url]: https://developer.android.com/studio
-[xml]: https://img.shields.io/badge/XML-000000?style=for-the-badge&logo=xml&logoColor=white
+[xml]: https://img.shields.io/badge/XML-556B2F?style=for-the-badge&logo=xml&logoColor=white
 [xml-url]: https://www.w3.org/XML/
