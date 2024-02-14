@@ -83,7 +83,7 @@ Parts of Tapioca:
 
 
 * [![Java][java]][java-url]
-* [![Android][android-studio]][React-url]
+* [![Android Stuido][android-studio]][android-url]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -205,5 +205,5 @@ Use this space to list resources you find helpful and would like to give credit 
 [product-screenshot]: images/screenshot.png
 [java]: https://img.shields.io/badge/Java-ffa500?style=for-the-badge&logo=java&logoColor=white
 [java-url]: https://www.java.com/
-[android-studio]: [https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-[React-url]: https://reactjs.org/
+[android-studio]:https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white
+[android-url]: https://developer.android.com/studio
