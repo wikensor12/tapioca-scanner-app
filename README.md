@@ -93,15 +93,35 @@ Parts of Tapioca:
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Welcome to Tapioca! Follow these steps to get started using our app:
+
 
 ### Prerequisites
 
+* Mobile device with Android 6.0 or higher.
+* Internet connection to access the product database.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+### Installation
+
+* Go to the Google Play Store on your Android device.
+* Search for "Tapioca" in the search bar.
+* Select our app from the search results.
+* Click "Install" to download and install the app on your device.
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Initial Setup
+
+* Open the Tapioca app after installation.
+* Grant any necessary permissions for the app to function properly, such as access to the camera for scanning barcodes.
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- USAGE EXAMPLES -->
