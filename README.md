@@ -84,7 +84,7 @@ Parts of Tapioca:
 ### Built With
 
 * [![Java Icon](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)][java-url] [![Java][java]][java-url]
-* [![Android Studio Icon](https://img.icons8.com/color/48/000000/android-studio--v3.png)][android-url] [![Android Studio][android-studio]][android-url]
+* [![Android Studio Icon](https://img.icons8.com/color/48/000000/android-studio--v3.png)][android-url] [![android-studio]][android-url]
 
 
 
@@ -204,7 +204,6 @@ Use this space to list resources you find helpful and would like to give credit 
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
 [java]: https://img.shields.io/badge/Java-ffa500?style=for-the-badge&logo=java&logoColor=white
 [java-url]: https://www.java.com/
 [android-studio]:https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white
