@@ -98,7 +98,7 @@ Welcome to Tapioca! Follow these steps to get started using our app:
 
 ### Prerequisites
 
-* Mobile device with Android 6.0 or higher.
+* Mobile device with Android 9.0 or higher.
 * Internet connection to access the product database.
 
 
@@ -121,6 +121,11 @@ Welcome to Tapioca! Follow these steps to get started using our app:
 * Grant any necessary permissions for the app to function properly, such as access to the camera for scanning barcodes.
 
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- USAGE EXAMPLES -->
+## Usage
 
 Once you have completed the initial setup, you can start using Tapioca in the following ways:
 
@@ -128,34 +133,9 @@ Once you have completed the initial setup, you can start using Tapioca in the fo
 * Explore the product database to look up information about a specific product.
 * Check out the product information screen to get details about ingredients, nutritional value, and more.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -165,7 +145,7 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
+Thanks again!
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
@@ -176,22 +156,12 @@ Don't forget to give the project a star! Thanks again!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Arthur Andreu Egger - arturandegg@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/wikensor12/tapioca-scanner-app](https://github.com/wikensor12/tapioca-scanner-app)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
