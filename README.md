@@ -38,10 +38,13 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
+    <li><a href="#about-the-project">About The Project</a></li>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#built-with">Built With</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#java">Java</a></li>
+        <li><a href="#android-studio">Android Studio</a></li>
+        <li><a href="#xml">XML</a></li>
       </ul>
     </li>
     <li>
@@ -49,17 +52,14 @@
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
+        <li><a href="#initial-setup">Initial Setup</a></li> <!-- Added -->
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
-
 
 
 <!-- ABOUT THE PROJECT -->
