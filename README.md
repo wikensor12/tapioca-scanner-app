@@ -41,11 +41,6 @@
     <li><a href="#about-the-project">About The Project</a></li>
     <li>
       <a href="#built-with">Built With</a>
-      <ul>
-        <li><a href="#java">Java</a></li>
-        <li><a href="#android-studio">Android Studio</a></li>
-        <li><a href="#xml">XML</a></li>
-      </ul>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
